@@ -1,0 +1,11 @@
+[package]
+name = "eigen-system"
+version = "0.1.0"
+edition = "2021"
+description = "Eigenvalue computation: power iteration, QR algorithm, tridiagonal reduction, inverse iteration"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/eigen-system"
+keywords = ["eigenvalue", "eigenvector", "qr", "numerical", "linear-algebra"]
+categories = ["mathematics", "science"]
+
+[dependencies]
